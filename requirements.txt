@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+streamlit
+unicode
+gensim==3.7.0
+sqlalchemy
+snowballstemmer
+openpyxl
