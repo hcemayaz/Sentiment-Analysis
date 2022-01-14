@@ -1,6 +1,5 @@
 Sentiment Analysis Project
 ================================
-HüseyiN Cem Ayaz - 20501056
 
  * For using run the command below in the project folder:
     $ pip install -e .
